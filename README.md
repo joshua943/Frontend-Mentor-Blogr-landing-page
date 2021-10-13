@@ -22,6 +22,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [GitHub](https://github.com/joshua943/Frontend-Mentor---Blogr-landing-page.git)
+- Live Site URL: [Netlify](https://upbeat-raman-e0269a.netlify.app/)
 
 
 ## What I Learned
